@@ -1,0 +1,140 @@
+Paraxial Rays 近轴光线
+
+Lens Data 镜头数据
+
+Inserting and deleting surfaces 插入或删除面数据
+
+Entering surface comments 输入面注释
+
+Entering radii data 输入半径数据 
+
+Entering thickness data 输入厚度
+
+Entering glass data 输入玻璃数据
+
+Entering semi-diameter 输入半口径数据
+
+Entering conic data 输入二次曲面数据
+
+Entering parameter data 输入参数数据
+
+Defining the stop surface 确定光栏面
+
+Selecting surface types 选择面型
+
+Specifying surface apertures 各面通光口径的确定
+
+User defined apertures and obscurations 用户自定义口径和挡光
+
+Hiding rays to and from surfaces 到达表面和从表面射出的光线的隐藏
+
+Setting and removing solves 设置和撤销求解
+
+Aperture Type 光圈类型
+
+Entrance Pupil Diameter 入瞳直径
+
+（Image Space F/#) 像空间F/#
+
+Object Space Numerical Aperture 物空间数值孔径
+
+nsinθm 物空间边缘光线的数值孔径
+
+Float by Stop Size 通过光栏尺寸浮动
+
+（Paraxial Working F/#) 近轴工作F/#
+
+Object Cone Angle 物方锥形角
+
+Aperture Value 光圈值
+
+Lens Units 镜头单位
+
+Glass Catalogs 玻璃库
+
+Ray Aiming 光线定位
+
+Use Ray Aiming Cache 使用光线定位贮藏器
+
+Robust Ray Aiming （slow) 加强型光线定位（慢）
+
+Pupil Shift：X，Y，and Z 光瞳漂移：X，Y，Z
+
+Scale pupil shift factors by field 视场光瞳偏移比例因子
+
+Apodization Type 变迹法
+
+Apodization Factor 变迹因子
+
+Referece OPD 光程差参数
+
+Paraxial Rays 近轴光线
+
+Fast Asphere Trace 快速非球面追迹
+
+Check GRIN Apertures 检查梯度折射率元件的口径
+
+Semi Diameter Margin in % 半口径余量%
+
+Fast Semi-Diameters 半口径的快速计算法
+
+Global Coordinate Reference Surface 全局坐标参考面
+
+Fields 视场
+
+Polarization State 偏振状态
+
+Layout 外形图
+
+D Layout3D 二维外形图2
+
+D Layout 外形图3
+
+Solid Model 立体模型
+
+Ray Aberration 光线像差
+
+Optical Path 光程
+
+Pupil Abberation 光瞳像差
+
+Through Focus 离焦
+
+Full Field 全视场
+
+Matrix 矩阵
+
+Global Search 全局优化
+
+Hammer Optimization 锤形优化
+
+Remove All Variable 消除所有的变量
+
+Merit Function Listing 评价函数列表
+
+Tolerancing 公差
+
+Tolerance Listing 公差列表
+
+Tolerance Summary 公差汇总表
+
+Coating Listing 镀膜列表
+
+Convert Semi-Diameter to Circular Apertures 变换半口径为环形口径
+
+Scale Lens 镜头缩放
+
+Make Focal 生成焦距
+
+Quick Focus 快速调焦
+
+Add Fold Mirror 添加折叠反射镜
+
+Ghost Focus generator 幻像发生器
+
+Performance Test 系统复杂性测试
+
+Surface Data 表面数据
+
+System Data 系统数据
+
